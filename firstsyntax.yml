@@ -1,0 +1,19 @@
+---
+name: John
+address: London,United Kingdom
+age: 24
+is_working: true
+certifications: 5
+hobbies:
+	-reading
+	-musics
+	-football
+	-surfing
+work_experience:
+ company_01: pwc
+  years: 2
+  role: "Java developer"
+ company_02: TCS
+  years: 3
+  role: "Senior java developer"
+...  
